@@ -3,11 +3,11 @@ const axios = require('axios');
 const Prefixes = [
   '/ai',
   'kim',
-  'itachi',
+  '',
   '+ai',
-  'nemo',
+  'mugiwara',
   'ai',
-  'ask',
+  'mugiwara,
 ];
 
 module.exports = {
