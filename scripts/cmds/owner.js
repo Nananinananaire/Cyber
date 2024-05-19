@@ -30,16 +30,16 @@ module.exports = {
  envConfig: {}
  },
  onStart: async function ({ message }) {
- const botName = "𝗜𝗧𝗔𝗖𝗛𝗜";
+ const botName = "Coq 🐓🐔 bot";
  const createDate = "4/ Dec/2023";
- const botPrefix = "∆";
- const authorName = "ELIAS BARUTI";
- const ownAge = "18";
- const teamName = "ELIASBARUTI™";
- const authorFB = "facebook.com/elias.baruti45";
- const tikTok = "tiktok.com/@eliasbaruti11";
+ const botPrefix = "@";
+ const authorName = "EL njahfar";
+ const ownAge = "RAS";
+ const teamName = "coq team™";
+ const authorFB = "RAS";
+ const tikTok = "RAS";
  
- const now = moment().tz('Africa/Kinshasa');
+ const now = moment().tz('Russie/Moscou');
  const date = now.format('MMMM Do YYYY');
  const time = now.format('H:mm:ss');
  
